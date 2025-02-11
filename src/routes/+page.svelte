@@ -5,7 +5,7 @@
 
 
     function irParaFrases() {
-        window.location.href = "https://wanwan725.github.io/loja";
+        window.location.href = "https://wanwan725.github.io/frases";
     }
 </script>
 
