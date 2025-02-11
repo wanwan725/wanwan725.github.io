@@ -39,7 +39,7 @@
     width: 80%;
     max-width: 700px;
     text-align: center;
-    padding-top: 140px; /* Ajustado para abaixar as frases */
+    padding-top: 170px; /* Ajustado para abaixar as frases */
   }
 
   .frase {
