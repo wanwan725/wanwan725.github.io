@@ -19,7 +19,7 @@
   
   
     function voltar() {
-      window.location.href = "https://wanwansite.github.io/loja";
+      window.location.href = "https://wanwan725.github.io/#";
     }
   </script>
   

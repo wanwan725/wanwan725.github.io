@@ -6,12 +6,12 @@
   
   
     function voltar() {
-      window.location.href = "https://wanwansite.github.io/#";
+      window.location.href = "https://wanwan725.github.io/#";
     }
   
   
     function irParaFrases() {
-      window.location.href = "https://wanwansite.github.io/frases";
+      window.location.href = "https://wanwan725.github.io/frases";
     }
   </script>
   
